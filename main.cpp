@@ -1,3 +1,6 @@
+//
+// PLP firmware v1.0
+//
 
 #include <Arduino.h>
 #include <Wire.h>
